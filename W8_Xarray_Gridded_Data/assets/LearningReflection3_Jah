@@ -1,0 +1,2 @@
+input = ('Yo tengo hambre')
+print(input)
